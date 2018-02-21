@@ -4,7 +4,7 @@ This application was designed to help showcase the use of the HandleBars package
 
 ## How to Use 
 
-Go to the *** link to play and use the Eat-Da-Burger app.
+Go to the [Heroku app link](https://obscure-wildwood-50674.herokuapp.com) to play and use the Eat-Da-Burger app.
 
 ## Technologies Used
 
