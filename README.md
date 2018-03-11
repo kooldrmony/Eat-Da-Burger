@@ -1,4 +1,4 @@
-# burger
+# Eat-Da-Burger
 
 This application was designed to help showcase the use of the HandleBars package by creating a game in which the user is allowed to input the name of a hamburger they would like to eat. Once the user inputs a hamburger name and submits it, the name of the burger will be displayed on the right side of the screen under the "Burgers available to eat" side. If the user chooses to do so, they can click on the the "Devour it" button and the burger will be moved to the left side of the screen under the "Burgers that have been eaten" side.
 
